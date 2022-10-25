@@ -1,0 +1,21 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.1</Version>
+  <FileID>691b2a06-de1d-4163-baf2-50850f40c95f</FileID>
+  <ProjectType>0</ProjectType>
+  <RememberPowerShellVersion>True</RememberPowerShellVersion>
+  <PowerShellVersion>Local Machine - PowerShell V5 (64 Bit)</PowerShellVersion>
+  <Folders />
+  <Files>
+    <File Build="0">Startup.pss</File>
+    <File Build="0" Shared="True" ReferenceFunction="Invoke-Global_ps1">Globals.ps1</File>
+    <File Build="0" ReferenceFunction="Show-MainForm_psf">MainForm.psf</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-DataMigration_ps1">DataMigration.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-SqlScripts_ps1">SqlScripts.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-RunSqlPackage_ps1">RunSqlPackage.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-TagMapRefresh_ps1">TagMapRefresh.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-BackupDb_ps1">BackupDb.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-UpdateWebsite_ps1">UpdateWebsite.ps1</File>
+    <File Build="0" Shared="False" ReferenceFunction="Invoke-UpdateAdd_ps1">UpdateAdd.ps1</File>
+    <File Build="0" ReferenceFunction="Show-test_psf">test.psf</File>
+  </Files>
+</Project>

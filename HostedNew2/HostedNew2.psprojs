@@ -1,0 +1,14 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>691b2a06-de1d-4163-baf2-50850f40c95f</FileID>
+  <OpenFolders />
+  <OpenFiles>
+    <File>Globals.ps1</File>
+    <File>BackupDb.ps1</File>
+    <File>Startup.pss</File>
+    <File>RunSqlPackage.ps1</File>
+    <File>SqlScripts.ps1</File>
+    <File>MainForm.psf</File>
+    <File>UpdateAdd.ps1</File>
+  </OpenFiles>
+</ProjectState>
